@@ -1,3 +1,34 @@
-# Summer Hack Club Project
-- Unzip and run library.app.
-- Requires macOS 10.15+.
+# Personal Library Management System
+
+A Python and SQLite-based app to manage your book collection, built for Hack Club.
+
+## Features
+- Store books with title, author, genre, publication year, and status.
+- List books by genre, author, or all books in formatted tables.
+- Mark books as read.
+- Count books per author.
+- Add/delete books interactively.
+- Export library to CSV.
+- Prevents duplicates with UNIQUE constraints.
+- Colorful output for user feedback.
+
+## How to Run
+1. Install Python 3 from [python.org](https://www.python.org/downloads/).
+2. Install libraries: pip3 install tabulate colorama --user.
+3. Clone this repository: git clone <your-repo-url>.
+4. Navigate to the folder: cd PersonalLibrary.
+5. Run the script: python3 library.py.
+6. Follow the menu to manage your library.
+
+## Example Books
+- *1984* by George Orwell (Dystopian, 1949)
+- *Shadow and Bone* by Leigh Bardugo (Fantasy, 2012)
+- *The Hunger Games* by Suzanne Collins (Dystopian, 2008)
+
+## Technologies
+- Python 3
+- SQLite
+- Tabulate (pretty tables)
+- Colorama (colored output)
+
+Built with ❤️ for Hack Club.
