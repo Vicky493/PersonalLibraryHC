@@ -13,7 +13,12 @@ A Python and SQLite-based app to manage your book collection, built for Hack Clu
 - Colorful output for user feedback.
 
 ## How to Run
-1. Click this link:https://github.com/Vicky493/PersonalLibraryHC/raw/refs/heads/main/library
+1. ## Run Executable (macOS)
+1. Download summer_hack_club_app.zip.
+2. Unzip and right-click library.app, then select Open.
+3. If prompted, click Open or go to System Settings > Privacy & Security and click Open Anyway.
+4. Requires macOS 10.15+.
+
 
 ## Example Books
 - *1984* by George Orwell (Dystopian, 1949)
