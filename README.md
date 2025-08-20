@@ -13,13 +13,8 @@ A Python and SQLite-based app to manage your book collection, built for Hack Clu
 - Colorful output for user feedback.
 
 ## How to Run
-1. Install Python 3 from [python.org](https://www.python.org/downloads/).
-2. Install libraries: pip3 install tabulate colorama --user.
-3. Clone this repository: git clone <your-repo-url>.
-4. Navigate to the folder: cd PersonalLibrary.
-5. Run the script: python3 library.py.
-6. Follow the menu to manage your library.
-
+1. Click this link:
+   
 ## Example Books
 - *1984* by George Orwell (Dystopian, 1949)
 - *Shadow and Bone* by Leigh Bardugo (Fantasy, 2012)
