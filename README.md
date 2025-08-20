@@ -13,8 +13,8 @@ A Python and SQLite-based app to manage your book collection, built for Hack Clu
 - Colorful output for user feedback.
 
 ## How to Run
-1. Click this link:[
-](https://github.com/Vicky493/PersonalLibraryHC/raw/refs/heads/main/library)   
+1. Click this link:https://github.com/Vicky493/PersonalLibraryHC/raw/refs/heads/main/library
+
 ## Example Books
 - *1984* by George Orwell (Dystopian, 1949)
 - *Shadow and Bone* by Leigh Bardugo (Fantasy, 2012)
